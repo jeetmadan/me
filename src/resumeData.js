@@ -111,7 +111,7 @@ let resumeData = {
     "achieve3":"iii). Qualified Round 1A in Codechef SnackDown 2019.",
     "achieve4":"iv). Secured 5th Rank in Coding Competition Organised by N.I.T Jalandhar.",
     "achieve5":"v). Secured 14th Rank in Coding Competition Organised by CodingNinja.",
-    "achieve6":"vi). Secured 8th Rankin Coding Competition Organised by Chitkara University.",
+    "achieve6":"vi). Secured 8th Rank in Coding Competition Organised by Chitkara University.",
 
 
     "social":[
