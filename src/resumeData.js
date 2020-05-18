@@ -110,7 +110,7 @@ let resumeData = {
     "achieve2":"ii). Global Ranking 16 on GeeksforGeeks coding platform among 10,55,003 users.",
     "achieve3":"iii). Qualified Round 1A in Codechef SnackDown 2019.",
     "achieve4":"iv). Secured 5th Rank in Coding Competition Organised by N.I.T Jalandhar.",
-    "achieve5":"v). Secured 14th Rank in Coding Competition Organised by CodingNinja.",
+    "achieve5":"v). Secured 14th Rank in Coding Competition Organised by Coding Ninja.",
     "achieve6":"vi). Secured 8th Rank in Coding Competition Organised by Chitkara University.",
 
 
