@@ -1,5 +1,4 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Madanjeet Kumar",
     "role": "Fullstack Web Developer",
     "linkedinId":"https://www.linkedin.com/in/madanjeet-kumar/",
@@ -106,7 +105,43 @@ let resumeData = {
        "\n"+"iv). Timely notifications are sent to their guardian who are absent on a regular basis.\n",
     "description5":"Dictionary offers following functionalities: \n" +
         "\n" +"i). Implemented Dictionary Using Trie Data Structure.\n" +
-        "\n" +"ii). The aim of the project was to implement all functionalities of a dictionary including insertion, deletion, updation and searching of words.\n"
+        "\n" +"ii). The aim of the project was to implement all functionalities of a dictionary including insertion, deletion, updation and searching of words.\n",
+    "achieve1":"i). Scholarship worth Rs 1,02,000 for scoring 9.39/10  AGPA(in top 10 percentile of Computer Engineering).",
+    "achieve2":"ii). Global Ranking 16 on GeeksforGeeks coding platform among 10,55,003 users.",
+    "achieve3":"iii). Qualified Round 1A in Codechef SnackDown 2019.",
+    "achieve4":"iv). Secured 5th Rank in Coding Competition Organised by N.I.T Jalandhar.",
+    "achieve5":"v). Secured 14th Rank in Coding Competition Organised by CodingNinja.",
+    "achieve6":"vi). Secured 8th Rankin Coding Competition Organised by Chitkara University.",
+
+
+    "social":[
+        {
+            "name":"eye",
+            "url":"https://www.coursera.org/account/accomplishments/verify/Q7ZX88CNVSPB",
+            "className":"fa fa-eye",
+            "achieve":"i). Got Certificate in Machine Learning by Stanford."
+        },
+        {
+            "name":"eye",
+            "url":"https://drive.google.com/file/d/17S4f6-CwA3oBQB8qfoV2nVp9ntCCUsVB/preview",
+            "className":"fa fa-eye",
+            "achieve":"ii). Got an Excellence Certificate in Data Structure and Algorithm by Coding Ninja."
+        },
+        {
+            "name":"eye",
+            "url":"https://www.codechef.com/certificates/public/0ecd23e",
+            "className":"fa fa-eye",
+            "achieve":"iii). SnackDown 2019 by CodeChef."
+        },
+        {
+            "name":"eye",
+            "url":"https://ninjasfiles.s3.amazonaws.com/certificate226380d8d5d62e8c963fbfd6e3192a0f1fc14a.pdf",
+            "className":"fa fa-eye",
+            "achieve":"iii). Interview Preparation in Java by Coding Ninjas."
+        }
+        ]
+
+
 }
   
   export default resumeData
