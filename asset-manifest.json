@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.e8c24495.chunk.css",
-    "main.js": "/me/static/js/main.4670fa7f.chunk.js",
-    "main.js.map": "/me/static/js/main.4670fa7f.chunk.js.map",
-    "runtime-main.js": "/me/static/js/runtime-main.ae24c08c.js",
-    "runtime-main.js.map": "/me/static/js/runtime-main.ae24c08c.js.map",
-    "static/js/2.1d80cdf2.chunk.js": "/me/static/js/2.1d80cdf2.chunk.js",
-    "static/js/2.1d80cdf2.chunk.js.map": "/me/static/js/2.1d80cdf2.chunk.js.map",
-    "index.html": "/me/index.html",
-    "precache-manifest.17b5eaf3d82cbd76fd58223115d2a560.js": "/me/precache-manifest.17b5eaf3d82cbd76fd58223115d2a560.js",
-    "service-worker.js": "/me/service-worker.js",
-    "static/css/main.e8c24495.chunk.css.map": "/me/static/css/main.e8c24495.chunk.css.map",
-    "static/js/2.1d80cdf2.chunk.js.LICENSE.txt": "/me/static/js/2.1d80cdf2.chunk.js.LICENSE.txt",
-    "static/media/circle-cropped.png": "/me/static/media/circle-cropped.eab9224b.png",
-    "static/media/curriculum-vitae.png": "/me/static/media/curriculum-vitae.9f4b76f4.png"
+    "main.css": "/cv/static/css/main.e8c24495.chunk.css",
+    "main.js": "/cv/static/js/main.98f48964.chunk.js",
+    "main.js.map": "/cv/static/js/main.98f48964.chunk.js.map",
+    "runtime-main.js": "/cv/static/js/runtime-main.cc7c62e5.js",
+    "runtime-main.js.map": "/cv/static/js/runtime-main.cc7c62e5.js.map",
+    "static/js/2.23e15283.chunk.js": "/cv/static/js/2.23e15283.chunk.js",
+    "static/js/2.23e15283.chunk.js.map": "/cv/static/js/2.23e15283.chunk.js.map",
+    "index.html": "/cv/index.html",
+    "precache-manifest.03e32c3a86e74e2e224c08f37b404763.js": "/cv/precache-manifest.03e32c3a86e74e2e224c08f37b404763.js",
+    "service-worker.js": "/cv/service-worker.js",
+    "static/css/main.e8c24495.chunk.css.map": "/cv/static/css/main.e8c24495.chunk.css.map",
+    "static/js/2.23e15283.chunk.js.LICENSE.txt": "/cv/static/js/2.23e15283.chunk.js.LICENSE.txt",
+    "static/media/circle-cropped.png": "/cv/static/media/circle-cropped.eab9224b.png",
+    "static/media/curriculum-vitae.png": "/cv/static/media/curriculum-vitae.9f4b76f4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae24c08c.js",
-    "static/js/2.1d80cdf2.chunk.js",
+    "static/js/runtime-main.cc7c62e5.js",
+    "static/js/2.23e15283.chunk.js",
     "static/css/main.e8c24495.chunk.css",
-    "static/js/main.4670fa7f.chunk.js"
+    "static/js/main.98f48964.chunk.js"
   ]
 }
