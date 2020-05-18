@@ -129,7 +129,7 @@ export default  class Resume extends Component {
           </div>
           <div className="row work">
               <div className="three columns header-col">
-                  <img  src="https://drive.google.com/uc?export=view&id=1b6GJTz0eTKylIz9U0i9oEHqGDsjg2vpe" alt="" />
+                  <img  src="https://drive.google.com/uc?export=view&id=1opOHTnW0NPwo8ImaZNHq7yuthPiQPbRt" alt="" />
                   <h5><span>
                       Certificates
                       </span>
